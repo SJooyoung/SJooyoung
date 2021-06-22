@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @gy8379
-- 👀 I’m interested in Computer vision and deep learning, etc
-- 🌱 I’m currently learning Computer vision
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Shinjooyoung
+
+I❤️ code, Python and anything **CREATIVE**✨
+
+## 💻 Technologies I Interest
+
+- Web Development
+- Machine Learning
+- Deep Learning
+- Computer vision
+
+## 📘 Programming Languages
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+
+
 
 <!---
 gy8379/gy8379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
