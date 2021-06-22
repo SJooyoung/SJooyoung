@@ -1,4 +1,4 @@
-# Hi, I’m Shinjooyoung
+# Hi, I’m SJooyoung
 
 I❤️ code, Python and anything **CREATIVE**✨
 
